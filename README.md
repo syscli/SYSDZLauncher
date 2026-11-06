@@ -11,9 +11,15 @@ A DayZ server launcher for Windows, made by SYSCLI.
 - Load your own local mods for testing.
 - Show the server you play on in Discord, with a Join button for friends.
 
-## Status
+## Download
 
-Not released yet.
+**[Download SYSDZ Launcher 1.0.0 for Windows](https://github.com/syscli/SYSDZLauncher/releases/download/v1.0.0/SYSDZ-Launcher-Setup-1.0.0.exe)**
+
+Run the installer. It needs no admin rights and installs for your Windows
+user only. If Windows shows "Windows protected your PC", press **More info**,
+then **Run anyway**. The launcher updates itself after that.
+
+Website: https://dayz.syscl.ru
 
 ## Requirements
 
@@ -22,8 +28,8 @@ Not released yet.
 
 ## Help
 
-If something goes wrong, open **Settings, About, Open log folder** in the
-launcher and send the `sysdz.log` file with a short description.
+Use **Settings, About, Report a bug** in the launcher, or ask in the
+[SYSCLI Discord](https://discord.gg/wyHKm48sq5).
 
 ## License
 
