@@ -13,7 +13,7 @@ A DayZ server launcher for Windows, made by SYSCLI.
 
 ## Download
 
-**[Download SYSDZ Launcher 1.0.0 for Windows](https://github.com/syscli/SYSDZLauncher/releases/download/v1.0.0/SYSDZ-Launcher-Setup-1.0.0.exe)**
+**[Download SYSDZ Launcher 1.0.1 for Windows](https://github.com/syscli/SYSDZLauncher/releases/download/v1.0.1/SYSDZ-Launcher-Setup-1.0.1.exe)**
 
 Run the installer. It needs no admin rights and installs for your Windows
 user only. If Windows shows "Windows protected your PC", press **More info**,
